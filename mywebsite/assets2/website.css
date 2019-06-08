@@ -1,0 +1,64 @@
+.theme{
+    font-family: Bahnschrift!important;
+    /*background-image:url(https://i1.wp.com/textureshot.com/wp-content/uploads/2018/11/wood-wallpaper-hd-backgrounds-images.jpg?zoom=1.25&fit=1024%2C640&ssl=1) !important;*/
+    /*background-attachment: fixed !important;*/
+    /*font-size:15px!important;*/
+
+}
+.link {
+    font-family: Bahnschrift !important;
+    color:white !important;
+    /*margin: 5px 5px;*/
+    /*background-color: ;*/
+    text-decoration: none;
+    font-size: large;
+}
+
+
+
+.link:hover{
+    font-family: Bahnschrift!important;
+    color:#002752 !important;
+    margin: fill;
+    background-color:white;
+    box-shadow: 5px 5px 5px #002752 ;
+    text-decoration: underline;
+    cursor: pointer;
+    /*font-size: large;*/
+}
+.link:active{
+    font-size:15px;
+    color:white;
+    text-decoration: none;
+}
+.link:visited {
+    font-family: Bahnschrift !important;
+    color:white !important;
+    margin: fill;
+    /*background-color:#002752;*/
+    text-decoration: none;
+}
+.headings{
+    font-family: Bahnschrift!important;
+    color: black;
+    margin: 5px 5px;
+    background-color:chocolate;
+    text-decoration: none;
+
+
+}
+.headings:hover{
+    font-family: Bahnschrift !important;
+    color: chocolate;
+    margin:fill;
+    background-color:black;
+    box-shadow: 5px 5px 5px beige ;
+    text-decoration: underline;
+    cursor:pointer;
+}
+.img:hover {
+    border-top: 25px darkred;
+    border-bottom: 25px darkred;
+    border-left: 25px darkred;
+    border-right: 25px darkred;
+}
